@@ -41,7 +41,7 @@ Describe any challenges encountered while building the app.
 
 Coming from c-family languages and visual studio, the biggest challenge was learning XCode and Swift and their nuances. Swift sits nicely amongst other Object Oriented languages, but managing XCode's UI is not super fun and needs an hour or two to tweak. I often found myself going, "where the heck did my code-behinds just go?!"
 
-I need to spend some more time familiarizing myself with Swift's UI layouts to build more responsive User Interfaces.
+I need to spend some more time familiarizing myself with Swift's UI layout controls to build more responsive User Interfaces.
 
 
 ## License
