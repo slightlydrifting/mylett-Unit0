@@ -24,8 +24,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        //change bill amount text field to number pad with decimal
+        //change textfield's keyboard to number pad with decimal
         billAmountTextField.keyboardType = .decimalPad
+        //set first responder
+        billAmountTextField.becomeFirstResponder()
     }
     
     //bill amount changed, so grab the current tip rate and recalculate total
